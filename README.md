@@ -22,6 +22,17 @@ The game features:
   - Fonts for text display
 - **`CMakeLists.txt`**: Links necessary libraries and compilers for building the project.
 
+## Button guide
+### Move to right
+![g14209](https://github.com/user-attachments/assets/3aa77982-5a18-4aab-8d04-52a87d53aa16) 
+### Move to left
+![g14134](https://github.com/user-attachments/assets/f85f2230-14ec-4a80-a35c-cd4b69cfbdf9)
+### Jump
+![g14253](https://github.com/user-attachments/assets/17a50544-188e-46ba-9b2c-81fe944eae33)
+### Shoot
+![g14245](https://github.com/user-attachments/assets/8294bd03-b36d-49c6-a021-145e7b79954f)
+
+
 ## Installation and Setup
 1. Clone the repository:
    ```bash
