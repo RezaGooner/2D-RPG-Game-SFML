@@ -1,6 +1,6 @@
 # 2D RPG Game (SFML)
 
-This project is a **2D Role-Playing Game (RPG)** inspired by the nostalgic **Super Mario** style. It is developed in **C++** using the **SFML** library.
+This project is a **2D Role-Playing Game (RPG)** inspired by the nostalgic **Super Mario** style. It is developed in **C++** using the **SFML** library(v2.5.1)
 
 ## About the Game
 Get ready for an exciting adventure!  
