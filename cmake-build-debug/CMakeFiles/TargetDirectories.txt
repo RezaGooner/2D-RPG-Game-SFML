@@ -1,0 +1,3 @@
+C:/Users/Reza/Desktop/SFMLTEST/cmake-build-debug/CMakeFiles/SFMLProject.dir
+C:/Users/Reza/Desktop/SFMLTEST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Reza/Desktop/SFMLTEST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
