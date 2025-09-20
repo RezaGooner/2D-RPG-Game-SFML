@@ -40,18 +40,16 @@ The game features:
    cd 2D-RPG-Game-SFML
 Ensure you have SFML installed on your system. Download it from SFML's official website.
 Build the project using CMake:
-bash
-Copy
-Edit
+```
 mkdir build
 cd build
 cmake ..
 make
+```
 Run the game:
-bash
-Copy
-Edit
+```
 ./2D-RPG-Game
+```
 Screenshots
 Here are some screenshots from the game:
 
